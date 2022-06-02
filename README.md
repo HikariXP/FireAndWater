@@ -25,7 +25,7 @@
 
 
 
-### 预览
+## 预览
 
 ![](https://github.com/HikariXP/FigureBed/blob/main/FireAndWater/Image%201.png)
 
