@@ -1,3 +1,3 @@
-*meta linguist-language=C#
-*csproj linguist-language=C#
-*aspx linguist-language=C#
+*meta linguist-language=cs
+*csproj linguist-language=cs
+*aspx linguist-language=cs
