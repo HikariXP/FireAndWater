@@ -3,6 +3,8 @@
 
 没有用到InputSystem实现多平台适配（Are you sure it will？）
 
+*注：本项目不受维护（笑）。*
+
 
 
 ### 实现方式概况：
